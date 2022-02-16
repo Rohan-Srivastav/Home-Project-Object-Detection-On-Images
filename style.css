@@ -1,0 +1,12 @@
+.ac_t{
+    border: 3px solid white;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background: white;
+}
+body{
+    background: linear-gradient(to bottom left, #12c2e9, #fbd786, #f7797d, #12c2e9, #c471ed, #f64f59);
+}
